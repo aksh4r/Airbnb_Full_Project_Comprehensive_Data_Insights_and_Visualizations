@@ -71,8 +71,6 @@ This repository contains a detailed analysis of Airbnb data, designed to extract
 
 ### Folders:
 
-- Project Management: Includes the project brief and planning materials.
 - Data: Raw data files (not included in the repository for privacy reasons).
-- Scripts: Tableau workbook file detailing the analysis (`AirBnb Full Project.twb`).
 - Analysis: Screenshots of dashboards and supporting visualizations.
-- Sent to Client: Final report exported as PDF and/or Excel.
+- Sent to Client: Final report exported as PDF.
