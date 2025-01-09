@@ -1,0 +1,2 @@
+# Airbnb_Full_Project_Comprehensive_Data_Insights_and_Visualizations
+This Tableau Workbook project provides a comprehensive analysis of Airbnb data, featuring five distinct worksheets that visualize key insights. The workbook leverages a federated data source to ensure accurate and up-to-date information for decision-making. The visualizations include metrics and trends to support data-driven strategies.
