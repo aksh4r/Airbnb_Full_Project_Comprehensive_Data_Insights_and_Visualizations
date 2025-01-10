@@ -71,6 +71,6 @@ This repository contains a detailed analysis of Airbnb data, designed to extract
 
 ### Folders:
 
-- Data: Raw data files (not included in the repository for privacy reasons).
-- Tableau: Screenshots of dashboards and supporting visualizations.
+- Tableau: tableau project file.
+- Visualizations: Screenshots of dashboards and supporting visualizations.
 - Stake Holder Report: Final report exported as PDF.
